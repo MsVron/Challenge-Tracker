@@ -4,8 +4,8 @@ This is a simple web application called " Challenge Tracker" that allows users t
 
 ## Features
 
-- Add a new  entry by providing the date and the number of s.
-- Delete a  entry from the table.
+- Add a new entry by providing the date and the number of s.
+- Delete an entry from the table.
 - Automatically load existing entries from local storage when the page loads.
 - Display the entries in a table format, showing the date and the number of s.
 - Provide a default value of today's date for the date input field.
